@@ -1,0 +1,26 @@
+{
+  "total": 3,
+  "items": [
+    {
+      "id": "0a946677-7e9d-42f5-8f9e-84bbddaale66",
+      "title": "Demo for display",
+      "description": "This is a description of an event",
+      "startDate": "2018-10-19T09:05:00Z",
+      "endDate": "2018-10-20T09:05:00Z"
+    },
+    {
+      "id": "0a944447-7e9d-42f5-8f9e-84bbddaale66",
+      "title": "Demo for display",
+      "description": "This is a description of an event",
+      "startDate": "2018-10-19T09:05:00Z",
+      "endDate": "2018-10-20T09:05:00Z"
+    },
+    {
+      "id": "0a945555-7e9d-42f5-8f9e-84bbddaale66",
+      "title": "Demo for display",
+      "description": "This is a description of an event",
+      "startDate": "2018-10-19T09:05:00Z",
+      "endDate": "2018-10-20T09:05:00Z"
+    }
+  ]
+}
